@@ -1,2 +1,0 @@
-# NaHost
-Na Host Website
